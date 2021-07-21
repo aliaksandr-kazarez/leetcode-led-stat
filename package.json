@@ -1,0 +1,19 @@
+{
+  "name": "leetcode-led-stat",
+  "version": "1.0.0",
+  "description": "Display leetcode stat on LED panel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliaksandr-kazarez/leetcode-led-stat.git"
+  },
+  "author": "Aliaksandr Kazarez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aliaksandr-kazarez/leetcode-led-stat/issues"
+  },
+  "homepage": "https://github.com/aliaksandr-kazarez/leetcode-led-stat#readme"
+}
